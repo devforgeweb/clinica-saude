@@ -128,4 +128,5 @@ Este modelo pode ser utilizado por:
 Desenvolvido por DevForge
 
 Portfólio: https://devforgeweb.netlify.app/
+<br>
 Contato: https://wa.me/5585997013067
